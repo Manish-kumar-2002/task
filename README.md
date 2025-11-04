@@ -9,8 +9,7 @@ The app demonstrates clean component architecture, Context + Reducer-based state
 ## 🧰 Tech Stack
 - ⚛️ **React 18** – Core UI library  
 - 🧠 **React Context + useReducer** – Global state management  
-- 🎨 **TailwindCSS** – For modern and responsive styling  
-- 🔄 **react-beautiful-dnd** – For drag and drop reordering  
+- 🎨 **TailwindCSS** – For modern and responsive styling   
 - 🌐 **Mock API** – Using [jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos)  
 - 💾 **localStorage** – Data persistence across refresh  
 
